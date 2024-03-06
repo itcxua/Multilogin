@@ -1,7 +1,13 @@
+<h2>Multilogin 6.4.1 </h2>
+
+<a href="https://cdn-download.multiloginapp.com/multilogin/6.4.1/multilogin-6.4.1-6-linux_x86_64.zip" target="_blank">Windows</a>
+
+<a href="https://mlxdists.s3.eu-west-3.amazonaws.com/mlx/1.14.0/multiloginx-amd64.deb" target="_blank">Linux</a>
+
+<a href="https://cdn-download.multiloginapp.com/multilogin/6.4.1/multilogin-6.4.1-6-osx_x86_64.dmg" target="_blank">MacOS</a>
 
 
-
-<h2 id="multilogin-5141-unity-stable-2021-03-12" class="joli-heading">Что нового в Multilogin 5.17.3 </h2>
+<h2>Что нового в Multilogin 5.17.3 </h2>
 
 <a href="https://multilogin.com/download/multiloginapp-windows-installer/?version=5.17.3" target="_blank">СКАЧАТЬ</a>
 <!-- ---------------------------------------------------------------------------------------------------- -->
