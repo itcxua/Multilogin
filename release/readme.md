@@ -1,10 +1,11 @@
 <h2>Multilogin 6.4.1 </h2>
 
-<a href="https://cdn-download.multiloginapp.com/multilogin/6.4.1/multilogin-6.4.1-6-linux_x86_64.zip" target="_blank">Windows [zip]</a>
 
 <a href="https://cdn-download.multiloginapp.com/multilogin/6.4.1/multilogin-6.4.1-6-windows_x86_64_setup.exe" target="_blank">Windows [ EXE ]</a>
 
 <a href="https://mlxdists.s3.eu-west-3.amazonaws.com/mlx/1.14.0/multiloginx-amd64.deb" target="_blank">Linux</a>
+
+<a href="https://cdn-download.multiloginapp.com/multilogin/6.4.1/multilogin-6.4.1-6-linux_x86_64.zip" target="_blank">linux [zip]</a>
 
 <a href="https://cdn-download.multiloginapp.com/multilogin/6.4.1/multilogin-6.4.1-6-osx_x86_64.dmg" target="_blank">MacOS</a>
 
